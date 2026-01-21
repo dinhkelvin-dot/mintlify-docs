@@ -38,14 +38,15 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Campaign",
+            "icon": "paper-plane-top",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "campaign/create-new-campaign"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Agent",
+            "icon": "poll-people",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -65,6 +66,7 @@
       },
       {
         "tab": "API reference",
+        "hidden": true,
         "groups": [
           {
             "group": "API documentation",
