@@ -48,10 +48,8 @@
             "group": "Agent",
             "icon": "poll-people",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "incoming-agent",
+              "flow-agent"
             ]
           },
           {
