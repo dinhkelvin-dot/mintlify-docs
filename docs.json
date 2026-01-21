@@ -18,10 +18,10 @@
           "href": "https://mintlify.com/docs"
         },
         {
-          "anchor": "Blog",
-          "icon": "newspaper",
+          "anchor": "Video Tutorials",
+          "icon": "video",
           "hidden": true,
-          "href": "https://mintlify.com/blog"
+          "href": "https://youtube.com/textiful"
         }
       ]
     },
