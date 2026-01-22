@@ -56,7 +56,6 @@
           {
             "group": "Automation",
             "icon": "bolt-auto",
-            "hidden": true,
             "pages": [
               "automation/forms",
               "forms/appointments"
@@ -68,8 +67,7 @@
             "hidden": true,
             "pages": [
               "tools/website-widget",
-              "tools/webhooks",
-              "ai-tools/windsurf"
+              "tools/webhooks"
             ]
           }
         ]
