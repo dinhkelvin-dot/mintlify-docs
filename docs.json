@@ -59,7 +59,7 @@
             "hidden": true,
             "pages": [
               "tools/website-widget",
-              "ai-tools/claude-code",
+              "tools/webhooks",
               "ai-tools/windsurf"
             ]
           }
