@@ -54,10 +54,11 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Tools",
+            "icon": "toolbox",
             "hidden": true,
             "pages": [
-              "ai-tools/cursor",
+              "tools/website-widget",
               "ai-tools/claude-code",
               "ai-tools/windsurf"
             ]
