@@ -59,7 +59,7 @@
             "hidden": true,
             "pages": [
               "automation/forms",
-              "automation/appointments"
+              "forms/appointments"
             ]
           },
           {
