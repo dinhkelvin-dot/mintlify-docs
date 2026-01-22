@@ -54,6 +54,15 @@
             ]
           },
           {
+            "group": "Automation",
+            "icon": "bolt-auto",
+            "hidden": true,
+            "pages": [
+              "automation/forms",
+              "automation/appointments"
+            ]
+          },
+          {
             "group": "Tools",
             "icon": "toolbox",
             "hidden": true,
