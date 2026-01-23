@@ -98,13 +98,13 @@
   },
   "logo": {
     "light": "/images/Textiful-Logo-Final_Black-Logo.svg",
-    "dark": "/images/Textiful-Logo-Final_White-Logo.svg"
+    "dark": "/images/Textiful-Logo-Final_Black-Logo.svg"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hello@textiful.co"
       }
     ],
     "primary": {
